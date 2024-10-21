@@ -45,29 +45,31 @@ THE SCENES:
     1, The Chamber of the Continental Congress i 
     2. The Mall 
     3, The Chamber 
-    4, Thomas Jefferson's room and High Street : 
+    4, Thomas Jefferson's room and High Street
     5. The Chamber 
-    6. A Congressional Anteroom . 
+    6. A Congressional Anteroom
     7. The Chamber
 
 The action is continuous, without intermission. */
 
 # Act 1
-
+[[lights: 10]]
 ### "Overture
 
 INT. SCENE 1
 
 In front of the curtain.
 
-JOHN ADAMS
-I have come to the conclusion that one useless man is called a disgrace, that two are called a Jaw firm, and that three or more become a congress, And by God, I have had this Congress! For ten years King George and his Parliament have gulled, cullied, and diddied these Colonies with their illegal taxes— Stamp Acts, Townshend Acts, Sugar Acts, Tea Acts—and when we dared stand up like men they stopped our trade, seized our ships, blockaded our ports, burned our towns, and spilled our blood-— and still this Congress won't grant any of my proposals on Independence even so much as the courtesy of open debate! Good God, what in hell are they waiting for?
+JOHN
+I have come to the conclusion that one useless man is called a disgrace, that two are called a Law firm, and that three or more become a congress, And by God, I have had this Congress! For ten years King George and his Parliament have gulled, cullied, and diddied these Colonies with their illegal taxes— Stamp Acts, Townshend Acts, Sugar Acts, Tea Acts—and when we dared stand up like men they stopped our trade, seized our ships, blockaded our ports, burned our towns, and spilled our blood-— and still this Congress won't grant any of my proposals on Independence even so much as the courtesy of open debate! Good God, what in hell are they waiting for?
 
-The curtain flies up to reveal the Chamber of the Second Continental Congress in Philadelphia, At rise, Congress is in session, sweltering in the heat of a@premature summer's evening, A large day-by-day wall calendar reads: “MAY 8.”
+The curtain flies up to reveal the Chamber of the Second Continental Congress in Philadelphia, At rise, Congress is in session, sweltering in the heat of a premature summer's evening, A large day-by-day wall calendar reads: “MAY 8.”
 
 ## May 8
 ### "Sit Down, John"
 
+[[sound: unmute Congress]]
+[[lights: 15]]
 CONGRESS
 ~Sit down, John!
 ~Sit down, John!
@@ -76,7 +78,7 @@ CONGRESS
 ~Sit down, John!
 ~For God's sake, John. Sit down!
 
-VOICES FROM CONGRESS A
+CONGRESS A
 ~Are you going to open up a window?
 
 CONGRESS A
@@ -93,7 +95,7 @@ CONGRESS B
 JOHN
 ~Vote Yes!
 
-CONGRESS, FULL
+CONGRESS
 ~Oh, for God's sake, John, 
 ~Sit down!
 
@@ -119,7 +121,7 @@ SOME VOICES
 JOHN
 ~Vote Yes!
 
-CONGRESS, FULL
+CONGRESS
 ~No!!
 
 JOHN
@@ -132,7 +134,7 @@ CONGRESS A
 JOHN
 ~I say “Vote Yes!”
 
-CONGRESS, FULL
+CONGRESS
 ~Sit down, John!
 
 JOHN
@@ -278,7 +280,7 @@ ABIGAIL
 ~Heed to what I say!
 ~We've gone from Framingham to Boston 
 ~And cannot find a pin.
-~“Don't you know there isawar on?” 
+~“Don't you know there is a war on?” 
 ~Says each tradesman with agrin. 
 ~Well!
 ~We will not make saltpetre
@@ -330,7 +332,7 @@ Every day, my dearest friend.
 ABIGAIL
 ~Till then...
 
-ABIGAIL AND JOHN
+JOHN AND ABIGAIL
 ~Till then,
 ~I am, as I ever was, and ever shall be—
 ~Yours...
@@ -498,7 +500,7 @@ Oh, I haven't, Richard— how could I? But strictly speaking, while Virginia's v
 LEE
 Damn me if I haven't thought of someone!
 
-FRANKLIN AND ADAMS (together)
+JOHN AND FRANKLIN (together)
 Who?
 
 LEE
@@ -512,7 +514,7 @@ I'll leave tonight—why, hell, right now, if y'like! I'l stop off at Stratford 
 (A short drumroll)
 George Washington, will now give the continent its proposal on independence! And when Virginia proposes, the South is bound to follow, and where the South goes the Middle Colonies go! Gentlemen, a salute! To Virginia, the Mother of American Independence!
 
-JONN
+JOHN
 Incredible! We're free, and he hasn't even left yet!
 (To Lee)
 What makes you so sure you can do it?
@@ -600,7 +602,7 @@ LEE
 ~Here a Lee, there a Lee
 ~Everywhere a Lee--a Lee!
 
-FRANKLIN AND LEE:
+FRANKLIN AND LEE
 ~Here a Lee, there a Lee 
 ~Everywhere a Lee-—
 
@@ -615,7 +617,7 @@ LEE
 FRANKLIN
 And Richard H.—
 
-LEE.
+LEE
 That's me!!
 ~And may my blood stop running blue
 ~If I can't deliver up to you
@@ -650,7 +652,7 @@ LEE
 ~And I'll come back 
 ~Triumphant-Lee!
 
-FRANKLIN AND JOHN:
+FRANKLIN AND JOHN
 ~Here a Lee! There a Lee! 
 ~Ev'rywhere a Lee! A Lee!
 
@@ -889,7 +891,7 @@ DICKINSON (pleasantly)
 I trust, Caesar, when you're through converting the poor fellow to independency that you'll give the opposition a fair crack at him.
 
 RODNEY
-You're too late, John; once I get 'em they're got. Dr. Lyman Hall of Georgia- -Mr. John Dickinson of Pennsylvania:
+You're too late, John; once I get 'em they're got. Dr. Lyman Hall of Georgia- -Mr. John Dickinson of Pennsylvania.
 
 DICKINSON
 An honor, sir.
@@ -2371,7 +2373,7 @@ I'd ask you along, but talking makes her nervous.
 JOHN
 Yes, of course.
 
-FRANKLIN -
+FRANKLIN
 Good night, then.
 
 JOHN
@@ -2436,7 +2438,7 @@ Yes, so you wrote— Tom and litle Abby.
 ABIGAIL
 Only now it's Quincy and Charles. And it appears the farm here in Braintree is failing, John—the chickens and geese have all died and the apples never survived the late frost. How do you s'pose she managed to get away?
 
-JONN
+JOHN
 (with a glance to the shuttered window)
 The winters are softer in Virginia.
 
@@ -2480,7 +2482,7 @@ ABIGAIL
 JOHN
 ~Soon, Madame, we shall walk In Cupid's grove together...
 
-JOHN AND ABIGAIL:
+JOHN AND ABIGAIL
 ~And we'll fondly survey that promised land!
 ~Till then, til then,
 ~I am, as I ever was, and ever shall be, 
@@ -2586,13 +2588,13 @@ I spoke to no one last evening.
 
 FRANKLIN
 I ndeed you did not, madame, but nevertheless we presented ourselves. This is Mr. John Adams and I am Dr. Franklin.
-(As she stares at them, dum- founded.)
+(As she stares at them, dumfounded.)
 Inventor of the stove?
 
 MARTHA
 Oh, please, I know your names very well. But you say you presented yourselves?
 
-FRANKLY (smiling)
+FRANKLIN (smiling)
 It's of no matter, Your thoughts were well taken elsewhere,
 
 MARTHA
@@ -2624,7 +2626,7 @@ I am not an idle flatterer, Dr. Franklin. My husband admires you both greatly.
 FRANKLIN
 Then we are doubly flattered, for. we admire very much that which your husband admires.
 
-A pause as ‘they regard each other warmly. They have hit it off.
+A pause as they regard each other warmly. They have hit it off.
 
 JOHN
 (finally; the bull in the china shop)
@@ -2686,14 +2688,14 @@ FRANKLIN
 Yes, what else can that redheaded tombstone do?
 
 MARTHA
-(looks at them for a moment, then leans in und sings, confidentially)
+(looks at them for a moment, then leans in and sings, confidentially)
 ~He plays the violin
-~He tucks itright under his chin,
+~He tucks it right under his chin,
 ~And he bows,
 ~Oh, he bows,
 ~For he knows,
 ~Yes, he knows, that it's...
-~Heigh, heigh, heigh diddic-diddle, 
+~Heigh, heigh, heigh diddie-diddle, 
 ~'Twixt my heart, Tom, and his fiddle, 
 ~My strings arc unstrung. 
 ~Heigh-hcigh-heigh-heigh-igh-igh ... 
@@ -2710,7 +2712,7 @@ MARTHA
 ~Oh, I sigh...
 ~He draws near,
 ~Very near, and it's...
-~Heigh, heigh, heigh diddle-diddlc, and... 
+~Heigh, heigh, heigh diddle-diddle, and... 
 ~Good-bye to the fiddle!
 ~My strings are unstrung.
   
@@ -2748,7 +2750,7 @@ Incredible!
 MARTHA
 One-two-three, one-two-three!
 
-And in an instant she has swept Franklin off into an energetic waltz, John watches them jor a mo- ment, still trying to understand,
+And in an instant she has swept Franklin off into an energetic waltz, John watches them jor a moment, still trying to understand,
 
 JOHN
 Who's playing the violin?
@@ -2760,7 +2762,6 @@ And Martha leaves Franklin to begin waltzing with John, who, to Franklin's aston
 
 FRANKLIN
 John! You can dance!
-
 
 JOHN
 (executing an intricate step— he is having a grand time)
@@ -3159,8 +3160,12 @@ DICKINSON
 CONSERVATIVES
 ~... We are cool!
 
+The cool, cool conservative men-—Rutledge, Wilson, Read, Morris, Hall, Livingston, and Hewes among them-- elegantly prepare to dance.
+
 DICKINSON
-~Come, ye cool, cool considerate set, We'll dance together to the same minuet, To the right, |
+~Come, ye cool, cool considerate set,
+~We'll dance together to the same minuet,
+~To the right,
 ~Ever to the right,
 ~Never to the left,
 ~Forever to the right,
@@ -3180,8 +3185,8 @@ The Minuet is led by Dickinson and Rutledge, as the conservatives dance. During 
 CONSERVATIVES
 ~To the right,
 ~Ever to the right,
-~The cool, cool conservative men~-—-Rutledge, Wil- son, Read, Morris, Hall, Livingston, and Hewes among ~them-—elegantly prepare to dance.
-~Never to the left, Forever to the right.
+~Never to the left,
+~Forever to the right.
 
 DICKINSON
 ~Hands attach,
@@ -3212,7 +3217,7 @@ RUTLEDGE
 ~We say this game's not of our choosing,
 ~Why should we risk losing?
 
-CONSERVATIVE
+CONSERVATIVES
 ~We cool, cool men.
 
 DICKINSON (speaking, still dancing)
@@ -3262,8 +3267,10 @@ CONSERVATIVES
 ~We say this game's not of our choosing. 
 ~Why should we risk losing?
   
-~We Cool, Cool, Cool, Cool, Cool, Cool, Cool, Cool, Cool, Cool, Cool—!
-~Cool—_!
+~We Cool, Cool, Cool, Cool, Cool,
+~Cool, Cool, Cool, Cool, Cool,
+~Cool—!
+~Cool—!
 ~Men!!
 
 They turn and go, leaving only McNair, the Leather Apron, and the Courier in the Chamber. They are sient for a moment,
@@ -3363,7 +3370,7 @@ COURIER
 ~Hey, Hey
 ~Momma, look sharp!
 
-COURIER, MCNAIR, AND LEATHER APRON: 
+COURIER, MCNAIR, AND LEATHER APRON
 ~I'l close y'r eyes, my Billy,
 ~Them eyes that cannot see,
 ~An' I'll bury ya, my Billy,
@@ -3380,7 +3387,7 @@ The lights fade.
 
 # Act 2
 
-INT Scene 6 An anteroom off the main Congressional Chamber. 
+INT. Scene 6 An anteroom off the main Congressional Chamber. 
 
 At rise, the stage remains dark from the previous scene as the sounds of Congress in session are heard first, Thomson's bell for attention.
 
@@ -3508,7 +3515,7 @@ The eagle is a majestic bird.
 FRANKLIN
 The eagle is a scavenger, a thief, a coward, and the symbol of more than ten centuries of European mischief,
 
-JOHN:
+JOHN
 And the turkey?
 
 FRANKLIN
@@ -3591,14 +3598,14 @@ ALL
 
 They turn and go confidently into the Chamber.
 
-Int. Scene 7 The Chamber
+INT. Scene 7 The Chamber
 
 Congress is in session—Hancock, Bartlett, Hopkins, Sherman, Morris, Livingston, Witherspoon, Dickinson, Wilson, McKean, Read, Hewes, Rutledge, and Hall being present—and now John, Franklin, and Jefferson take their places, this action continuing from the previous scene, as Thomson completes his reading of the Declaration. The calendar on the wall now reads: “JUNE 28.”
 
 ## June 28
 
 THOMSON
-"... and that as Free and Independent States, they have full Power to levy War, conclude Peace, contract Alliances, establish Commerce, and to do al other Acts and Things which Independent States may of right do. And for the support of this Dec- laration we mutually pledge to each other our Lives, our Fortunes, and our sacred Honor.”
+"... and that as Free and Independent States, they have full Power to levy War, conclude Peace, contract Alliances, establish Commerce, and to do al other Acts and Things which Independent States may of right do. And for the support of this Declaration we mutually pledge to each other our Lives, our Fortunes, and our sacred Honor.”
 
 Finished, he looks up. Nobody moves, nobody speaks, nobody reacts; the silence is compiete and prolonged.
 
@@ -3764,7 +3771,7 @@ Because he is a tyrant.
 DICKINSON
 I remind you, Mr. Jefferson, that this “tyrant” is still your King.
 
-JBFFERSON
+JEFFERSON
 When a king becomes a tyrant he thereby breaks the contract binding his subjects to him.
 
 DICKINSON
@@ -4191,6 +4198,7 @@ Think of it, John! To be married to the man who is always first in line to be ha
 JOHN
 Yes. The ag-i-ta-tor.
 (Turning to her)
+  
 Why, Abby? You must tell me what it is! I've always been dissatisfied, I know that; but lately I find that I reek of discontentment! It fils my throat and floods my brain, and sometimes—sometimes I fear that there is no longer a dream, but only the discontentment.
 
 ABIGAIL
@@ -4276,7 +4284,7 @@ JOHN
   
 Jefferson! Talk to Rutledge, talk! If it takes all night, Keep talking.
 
-JOHN AND JEFFERSON:
+JOHN AND JEFFERSON
 Talk and talk and talk!
 
 JOHN
@@ -4815,17 +4823,19 @@ No— I want t'remember each man's face as he signs.
 As each name is called, the signer rises, comes to the Secretary's desk, signs, then stands to one side. The tolling Liberty Bell begins, offstage.
 
 THOMSON (in measured tones)
-New Hampshire, Dr. Josiah Bartiett. Massachusetts, Mr. John Adams.
-Rhode Island, Mr. Stephen Hopkins. Connecticut, Mr. Roger Sherman.
+New Hampshire, Dr. Josiah Bartiett.
+Massachusetts, Mr. John Adams.
+Rhode Island, Mr. Stephen Hopkins.
+Connecticut, Mr. Roger Sherman.
 New York, Mr. Lewis Morris.
 New Jersey, the Reverend John Witherspoon. 
 Pennsylvania, Dr. Benjamin Franklin.
 Delaware, Mr. Caesar Rodney.
 (Hancock takes the Declaration to the infirm Rodney, then returns it to the table.)
-Mary-land, Mr. Samuel Chase. 
-Virginia, Mr. Thomas Jefferson. 
-North Carolina, Mr. Joseph Hewes. 
-South Carolina, Mr. Edward Rutledge. 
+Mary-land, Mr. Samuel Chase.
+Virginia, Mr. Thomas Jefferson.
+North Carolina, Mr. Joseph Hewes.
+South Carolina, Mr. Edward Rutledge.
 Georgia, Dr. Lyman Hall.
 
 As the last man signs, the sound of the tolling Liberty Bell in the belfry above becomes almost deafening.
@@ -4834,3 +4844,7 @@ Then the scene freezes for a brief instant, and the pose of the familiar Pine-Sa
 A scrim curtain falls, the scene visible through it. Then as the back-light dims and the curtain is lit from the front, it becomes opaque and reveals the lower half of the Declaration, featuring the signatures.
 
 >CURTAIN<
+
+/*[Highland-ScratchPad-Start]
+scratch
+[Highland-ScratchPad-End]*/
